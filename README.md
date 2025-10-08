@@ -14,24 +14,24 @@
 - **Jupyter Notebook / VS Code** – for development and testing.  
 
 ## Usage
-1. Clone the repository:
+**1. Clone the repository:**
 ```bash
 git clone https://github.com/dhivya-shreetha-s/Waste_Classification.git
 ````
 
-2. Install dependencies:
+**2. Install dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the prediction script:
+**3. Run the prediction script:**
 
 ```bash
 python predict.py --image path_to_image
 ```
 
-4. The model will output the **waste category** of the given image.
+**4. The model will output the **waste category** of the given image.**
 
 ## File Structure
 
