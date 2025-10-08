@@ -1,4 +1,4 @@
-````markdown
+
 # Waste Classification Project
 
 ## Features
