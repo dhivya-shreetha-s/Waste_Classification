@@ -51,10 +51,6 @@ Waste_Classification/
 2. The current model classifies only **degradable** and **non-degradable** waste.
 3. For updates or contributions, please create a new branch and raise a pull request.
 
-```
-
----
-
 This version:  
 - Fixes all markdown formatting issues.  
 - Properly closes code blocks.  
