@@ -15,13 +15,12 @@
 ## Usage
 
 1. Clone the repository:
-```bash
  1. git clone https://github.com/dhivya-shreetha-s/Waste_Classification.git
  2.pip install -r requirements.txt
  3.python predict.py --image path_to_image
  4.The model will output the waste category of the given image.
 
-**## File Structure**
+## File Structure
 
 Waste_Classification/
 │
@@ -31,7 +30,7 @@ Waste_Classification/
 ├── README.md               # Project information
 └── requirements.txt        # Python dependencies
 
-**## Notes**
+## Notes
 
  1.Ensure your images are clear for better prediction accuracy.
  2.The current model classifies only degradable and non-degradable waste.
