@@ -1,4 +1,4 @@
-## Features
+ +-## Features
 
 - Automatically classifies images of waste into **degradable** and **non-degradable** categories.  
 - Fast and accurate predictions using a trained machine learning model.  
@@ -15,12 +15,13 @@
 ## Usage
 
 1. Clone the repository:
- 1. git clone https://github.com/dhivya-shreetha-s/Waste_Classification.git
- 2.pip install -r requirements.txt
- 3.python predict.py --image path_to_image
- 4.The model will output the waste category of the given image.
+ - git clone https://github.com/dhivya-shreetha-s/Waste_Classification.git
+ - pip install -r requirements.txt
+ - python predict.py --image path_to_image
+ - The model will output the waste category of the given image.
 
 ## File Structure
+``bash
 
 Waste_Classification/
 │
