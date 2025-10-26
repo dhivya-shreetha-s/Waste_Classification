@@ -1,7 +1,7 @@
 
-#♻️ Waste Classification Project
+# ♻️ Waste Classification Project
 
-##⚙️ Features
+## ⚙️ Features
 - ✨ Automatically classifies images of waste into Degradable 🪴 and Non-Degradable 🧱 categories.
 -⚡ Fast and accurate predictions using a trained Deep Learning model.
 -🧠 Includes image preprocessing for improved accuracy.
@@ -33,7 +33,7 @@ python predict.py --image path_to_image
 
 **✅4. The model will output the **waste category** of the given image.**
 
-##📂 File Structure
+## 📂 File Structure
 
 ```bash
 Waste_Classification/
@@ -48,7 +48,9 @@ Waste_Classification/
 ## 📝Notes
 
 🖼️1. Ensure your images are clear for better prediction accuracy.
+
 ♻️2. The current model classifies only **degradable** and **non-degradable** waste.
+
 🤝3. For updates or contributions, please create a new branch and raise a pull request.
 
 💡This version:  
